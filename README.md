@@ -1,6 +1,6 @@
-# MangakaPro — releases
+# Koma — releases
 
-Downloads and the auto-update manifest for MangakaPro, a desktop writing suite for manga and
+Downloads and the auto-update manifest for Koma, a desktop writing suite for manga and
 comics. **There is no source code in this repository** — it exists only so the app can fetch its
 own updates, which requires a publicly reachable URL.
 
@@ -21,7 +21,7 @@ a key built into it, so a tampered download is rejected. Nothing to do with it b
 
 ---
 
-**MangakaPro is freeware.** It costs nothing and always will. Use it for anything, including work
+**Koma is freeware.** It costs nothing and always will. Use it for anything, including work
 you sell — what you write is yours entirely. Pass it on to anyone, unchanged and free.
 
 The source code is not published. Full terms ship with the app as `LICENSE`.
