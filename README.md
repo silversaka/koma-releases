@@ -6,7 +6,7 @@ own updates, which requires a publicly reachable URL.
 
 ## Installing
 
-Grab `MangakaPro_<version>_x64-setup.exe` from the [latest release](../../releases/latest).
+Grab `Koma_<version>_x64-setup.exe` from the [latest release](../../releases/latest).
 
 Windows will show a blue **"Windows protected your PC"** warning, because the installer isn't
 signed with a paid certificate. Click **More info**, then **Run anyway**.
