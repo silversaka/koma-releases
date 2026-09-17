@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><rect width="1024" height="1024" rx="180" fill="#FF3131"/><svg xmlns="http://www.w3.org/2000/svg" x="118" y="118" width="788" height="788" viewBox="0 0 120.89 124.38">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <path class="cls-1" d="M84.03,27.75c-7.9-2.44-27.19-7.11-48.28.91-8.1,3.08-21.76,8.27-29.4,22.69-10.08,19.01-1.45,38.55-.73,40.11,11.92,25.83,44.24,28.59,49.55,29.04,5.64.48,40.96,2.77,56.99-23.23,1.39-2.26,13.1-22.02,3.45-43.56-8.95-19.98-29.02-25.32-31.58-25.95Z"/>
+    <polygon class="cls-4" points="10.28 2.59 47.82 25.24 8.24 46.38 10.28 2.59"/>
+    <polygon class="cls-4" points="113.5 5.13 114.09 48.96 75.23 26.53 113.5 5.13"/>
+    <polygon class="cls-2" points="67.26 83.21 63.44 90.29 59.22 82.98 67.26 83.21"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-3" d="M103.16,67.37s-34.24-22.04-25.17,1.31"/>
+    <path class="cls-3" d="M41.07,94.13c24.07,11.48,21.29-5.71,21.29-5.71"/>
+    <path class="cls-3" d="M64.72,88.01s-1.45,20.31,21.05,4.98"/>
+    <path class="cls-3" d="M23.78,62.62s37.8-15.15,24.46,6.06"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <ellipse class="cls-3" cx="89.81" cy="63.32" rx="20.35" ry="17.1"/>
+    <path class="cls-3" d="M105.84,74.55s3.6,82.72-9.05,31.71"/>
+    <path class="cls-3" d="M92.9,106.1c8.8-1.66,10.47.39,10.47.39"/>
+  </g>
+</svg></svg>
