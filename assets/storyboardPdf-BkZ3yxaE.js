@@ -1,0 +1,1 @@
+import{P as d}from"./PDFButton-DbCApYv9.js";import"./index-CTwBYltY.js";const r=150;async function p(s){const e=await d.create(),c=[...s].sort((o,t)=>o.pageNumber-t.pageNumber);for(const{bytes:o}of c){const t=await e.embedPng(o),a=t.width/r*72,n=t.height/r*72;e.addPage([a,n]).drawImage(t,{x:0,y:0,width:a,height:n})}return e.save()}export{p as buildStoryboardPdf};
